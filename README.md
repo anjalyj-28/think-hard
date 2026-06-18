@@ -54,4 +54,4 @@ To add a test case, pick a domain file (or create a new one) and follow this tem
 [Full high-quality response]
 ```
 
-Domains to add next: resume-review, interview-coaching, prompt-engineering, business-strategy.
+Domains to add next: prompt-engineering, business-strategy.
