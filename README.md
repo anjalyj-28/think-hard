@@ -12,7 +12,6 @@ It's built for **one person making better decisions**, not enterprise workflows 
 
 The skill is modular — each reasoning mode is self-contained and can be used alone or combined. Claude automatically selects the right module(s) based on what you ask.
 
-Doesn't Claude automatically apply adversarial thinking ?** Yes Claude does but it is shallow and inconsistent. Without this skill, Claude thinks like a smart generalist. With this skill, it thinks like a structured analyst. Same model, different output quality and consistency.
 ---
 
 ## Why think-hard?
